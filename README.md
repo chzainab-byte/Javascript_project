@@ -8,3 +8,6 @@
 # Brick Breaker
 <img width="671" height="610" alt="image" src="https://github.com/user-attachments/assets/6b4a235e-c5a3-46e0-86c5-0ed0375d53e7" />
 
+# Snake Game
+<img width="694" height="653" alt="image" src="https://github.com/user-attachments/assets/eaaa70a8-c716-441a-ba1e-ff18c50183a7" />
+
